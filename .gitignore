@@ -45,3 +45,4 @@ app.*.map.json
 
 # Report of untranslated strings
 /missing_l10n_strings.json
+.direnv/
